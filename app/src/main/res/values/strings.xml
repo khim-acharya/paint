@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PortableMovieStudio</string>
+    <string name="app_share_pref">com.pp.sharedpref.PREFERENCES_FILE_KEY</string>
+</resources>
